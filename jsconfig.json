@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target":"es6"
+  },
+  "files": [
+    "./rmmv.d.ts",
+    "./SK_PluginShell.ts"
+  ],
+}
